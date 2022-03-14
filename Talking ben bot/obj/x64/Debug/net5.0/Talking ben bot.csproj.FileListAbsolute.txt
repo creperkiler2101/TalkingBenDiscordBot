@@ -1,0 +1,47 @@
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Talking ben bot.exe
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Talking ben bot.deps.json
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Talking ben bot.runtimeconfig.json
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Talking ben bot.runtimeconfig.dev.json
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Talking ben bot.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\ref\Talking ben bot.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Talking ben bot.pdb
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Discord.Net.Interactions.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\System.Linq.Async.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\System.Reactive.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.AssemblyInfoInputs.cache
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.AssemblyInfo.cs
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.csproj.CoreCompileInputs.cache
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.csproj.CopyComplete
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\ref\Talking ben bot.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.pdb
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.genruntimeconfig.cache
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\System.Speech.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\obj\x64\Debug\net5.0\Talking ben bot.csproj.AssemblyReference.cache
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Ben.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\libsodium.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\No.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\opus.dll
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Yes.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Niggers.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\greka.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\rip.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\respawn.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\gameReady.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\HangUp.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Hohoho.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\HEHEHEHA.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Scream.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Dyadya1.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Pernul.mp3
+C:\Users\UMP9\source\repos\Talking ben bot\Talking ben bot\bin\x64\Debug\net5.0\Dyadya2.mp3

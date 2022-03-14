@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Talking ben bot": {
+      "commandName": "Project",
+      "commandLineArgs": "-token \"OTUwODgxNTk1ODY1MzA1MTM5.YifXfg.M1ST3oI-3BI7WimdfUh3LrIC1GU\""
+    }
+  }
+}
